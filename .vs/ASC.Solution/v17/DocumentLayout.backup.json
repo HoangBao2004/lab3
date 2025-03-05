@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\data\\migrations\\20250227082440_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\migrations\\20250227082440_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704E280-3C9E-40BF-A4EF-B40319B179A7}|ASC.Utilities\\ASC.Utilities.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.utilities\\objectextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704E280-3C9E-40BF-A4EF-B40319B179A7}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\objectextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\services\\authmessgagesende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\services\\authmessgagesende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.model\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\wwwroot\\images\\anh1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\wwwroot\\images\\anh1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|c:\\users\\84343\\documents\\zalo received files\\asc.solution\\asc.solution\\asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:03:53.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Program.cs",
+              "RelativeToolTip": "ASC.WEB\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:27:19.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:51:38.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:04:02.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "ASC.WEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\appsettings.json",
+              "RelativeToolTip": "ASC.WEB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T11:26:35.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250227082440_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\20250227082440_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\Migrations\\20250227082440_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\20250227082440_InitialCreate.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\Migrations\\20250227082440_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:03:54.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\IdentitySeed.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\IdentitySeed.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\IdentitySeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:24:29.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASC.WEB\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASC.WEB\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T14:26:36.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:40:03.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IIdentitySeed.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\IIdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\IIdentitySeed.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\IIdentitySeed.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\IIdentitySeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:04:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:02:49.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ObjectExtension.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.Utilities\\ObjectExtension.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\ObjectExtension.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.Utilities\\ObjectExtension.cs",
+              "RelativeToolTip": "ASC.Utilities\\ObjectExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:03:47.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASC.WEB\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\appsettings.Development.json",
+              "RelativeToolTip": "ASC.WEB\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T14:03:01.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "ASC.WEB\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\appsettings.Production.json",
+              "RelativeToolTip": "ASC.WEB\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T08:03:21.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "RelativeToolTip": "ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:39:59.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASC.WEB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:02:39.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthMessgageSende.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Services\\AuthMessgageSende.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Services\\AuthMessgageSende.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Services\\AuthMessgageSende.cs",
+              "RelativeToolTip": "ASC.WEB\\Services\\AuthMessgageSende.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:19:51.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ASC.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+              "RelativeDocumentMoniker": "ASC.Model\\ASC.Model.csproj",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+              "RelativeToolTip": "ASC.Model\\ASC.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T06:42:07.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_SecureLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Shared\\_SecureLayout.cshtml",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Shared\\_SecureLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T09:26:03.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "anh1.jpg",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\images\\anh1.jpg",
+              "RelativeDocumentMoniker": "ASC.WEB\\wwwroot\\images\\anh1.jpg",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\images\\anh1.jpg",
+              "RelativeToolTip": "ASC.WEB\\wwwroot\\images\\anh1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-20T12:45:51.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:51:57.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:39:18.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:43:42.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:43:59.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ASC.WEB\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ASC.WEB\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T08:52:43.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ASC.WEB\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ASC.WEB\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T08:53:06.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Services\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "ASC.WEB\\Services\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:21:08.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISmsSender.cs",
+              "DocumentMoniker": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Services\\ISmsSender.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Services\\ISmsSender.cs",
+              "ToolTip": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\Services\\ISmsSender.cs",
+              "RelativeToolTip": "ASC.WEB\\Services\\ISmsSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:23:18.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

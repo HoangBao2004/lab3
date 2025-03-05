@@ -1,0 +1,36 @@
+D:\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
+D:\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
+D:\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
+D:\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
+D:\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
+D:\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
+D:\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
+D:\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
