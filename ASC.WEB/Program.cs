@@ -9,7 +9,8 @@ using Microsoft.Extensions.Options;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+    ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
@@ -23,7 +24,7 @@ builder.Services.AddScoped<DbContext, ApplicationDbContext>();
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddControllersWithViews();
-builder.Services.AddRazorPages(); // Ensure Razor Pages services are added
+builder.Services.AddRazorPages();
 builder.Services.Configure<ApplicationSettings>(builder.Configuration.GetSection("AppSettings"));
 builder.Services.AddOptions();
 
@@ -31,6 +32,15 @@ builder.Services.AddTransient<IEmailSender, AuthMessgageSender>();
 builder.Services.AddTransient<ISmsSender, AuthMessgageSender>();
 builder.Services.AddSingleton<IIdentitySeed, IdentitySeed>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+// ✅ Thêm Session & Distributed Memory Cache
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 
 var app = builder.Build();
 
@@ -48,9 +58,12 @@ else
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+// ✅ Kích hoạt Session Middleware
+app.UseSession();
+
 app.UseRouting();
 
-app.UseAuthentication(); // Ensure authentication middleware is added
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

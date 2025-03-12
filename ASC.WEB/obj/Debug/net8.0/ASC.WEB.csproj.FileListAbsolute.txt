@@ -326,3 +326,8 @@ C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.WEB\o
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.pdb
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.genruntimeconfig.cache
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ref\ASC.WEB.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

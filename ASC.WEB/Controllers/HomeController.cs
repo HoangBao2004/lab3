@@ -1,5 +1,6 @@
 using ASC.WEB.Configuration;
 using ASC.WEB.Models;
+using ASC.Utilities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using System.Diagnostics;
@@ -20,9 +21,23 @@ namespace ASC.WEB.Controllers
 
         public IActionResult Index()
         {
+            //// Set Session
+            HttpContext.Session.SetSession("Test", _settings.Value);
+
+            //// Get Session
+            var settings = HttpContext.Session.GetSession<ApplicationSettings>("Test");
+
+            //// Usage of IOptions
             ViewBag.Title = _settings.Value.ApplicationTitle;
+
+            //// Test fail test case
+            // ViewData.Model = "Test";
+            // throw new Exception("Login Fail!!!");
+
             return View();
         }
+
+
 
         public IActionResult Privacy()
         {
