@@ -1,4 +1,5 @@
-﻿using ASC.Model.BaseTypes;
+﻿using ASC.DataAccess.Interface;
+using ASC.Model.BaseTypes;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -54,4 +55,3 @@ namespace ASC.DataAccess.Interface
         }
     }
 }
-

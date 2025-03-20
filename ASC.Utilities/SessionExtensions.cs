@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using System.Text;
+using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
-using System.Text;
 
 namespace ASC.Utilities
 {
@@ -17,6 +17,7 @@ namespace ASC.Utilities
             {
                 return JsonConvert.DeserializeObject<T>(Encoding.UTF8.GetString(value));
             }
+
             return default(T);
         }
     }
