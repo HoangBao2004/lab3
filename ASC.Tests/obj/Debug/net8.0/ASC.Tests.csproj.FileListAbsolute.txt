@@ -5,6 +5,7 @@ C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\appsettings.json
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Navigation\Navigation.json
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\ASC.WEB.staticwebassets.runtime.json
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\ASC.WEB.staticwebassets.endpoints.json
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\ASC.WEB.exe
@@ -18,8 +19,10 @@ C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\ASC.Tests.pdb
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Humanizer.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\MailKit.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
@@ -90,6 +93,7 @@ C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\MimeKit.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Moq.dll
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
@@ -363,3 +367,4 @@ C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\obj\Debug\net8.0\ASC.Tests.pdb
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\obj\Debug\net8.0\ASC.Tests.genruntimeconfig.cache
 C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\obj\Debug\net8.0\ref\ASC.Tests.dll
+C:\Users\84343\Documents\Zalo Received Files\ASC.Solution\ASC.Solution\ASC.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll

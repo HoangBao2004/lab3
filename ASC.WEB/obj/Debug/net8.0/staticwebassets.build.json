@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LAAP1nWl6KqYqYetFZJm3Y7ALiJTIV/yS4nPI85S644=",
+  "Hash": "mmNm87RcLdcqfM4c9yQWfNEgZ3nBX5fNnLR1aWcDNeE=",
   "Source": "ASC.WEB",
   "BasePath": "_content/ASC.WEB",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c8rifz1v31",
-      "Integrity": "XAUiNuLdks54PogEmB/Bgv+N7xgmjw6YzJ57dmA6RDU=",
+      "Fingerprint": "urjw32c0kw",
+      "Integrity": "GheyIG/I7205PE01UXm3+BxLbQaQLfU7nouJqC9v/cY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\materialize.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "u1ho7t2c19",
-      "Integrity": "rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc=",
+      "Fingerprint": "lv73nnjxg5",
+      "Integrity": "oe1M4KGUz+NBH+2eSUubygC6FxMMTEADfbKVvjjVTlQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "y3cenrgmu1",
-      "Integrity": "znfjOOVn4ypPCMrNB1rOcJaLZhDy76E1Krf93ZbJJHM=",
+      "Fingerprint": "zpdwdvwxy5",
+      "Integrity": "d1ZsQyEWZMAlNQhsE0Vm3nZG7N3j0IANFO5OzViqleo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "r08nfrwlle",
-      "Integrity": "pXwl7lRCt0+BpTEDYTOK3DAcLzx81CwgpbY8vyNwyOU=",
+      "Fingerprint": "ii0e98qwjf",
+      "Integrity": "GmMUxjApD+Iav6VOuxt2eJbDeFwx66GOjyxLzpbqSmg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
@@ -2855,7 +2855,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:15:26 GMT"
+          "Value": "Thu, 17 Apr 2025 03:38:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2892,7 +2892,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:15:26 GMT"
+          "Value": "Thu, 17 Apr 2025 03:38:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2929,7 +2929,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:15:26 GMT"
+          "Value": "Thu, 17 Apr 2025 03:38:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2974,7 +2974,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:15:26 GMT"
+          "Value": "Thu, 17 Apr 2025 03:38:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2997,51 +2997,6 @@
       ]
     },
     {
-      "Route": "css/materialize.c8rifz1v31.css",
-      "AssetFile": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\materialize.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "179177"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XAUiNuLdks54PogEmB/Bgv+N7xgmjw6YzJ57dmA6RDU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 May 2018 18:11:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c8rifz1v31"
-        },
-        {
-          "Name": "label",
-          "Value": "css/materialize.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XAUiNuLdks54PogEmB/Bgv+N7xgmjw6YzJ57dmA6RDU="
-        }
-      ]
-    },
-    {
       "Route": "css/materialize.css",
       "AssetFile": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\materialize.css",
       "Selectors": [],
@@ -3052,7 +3007,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "179177"
+          "Value": "212600"
         },
         {
           "Name": "Content-Type",
@@ -3060,11 +3015,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XAUiNuLdks54PogEmB/Bgv+N7xgmjw6YzJ57dmA6RDU=\""
+          "Value": "\"GheyIG/I7205PE01UXm3+BxLbQaQLfU7nouJqC9v/cY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 May 2018 18:11:10 GMT"
+          "Value": "Thu, 17 Apr 2025 05:13:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3074,7 +3029,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XAUiNuLdks54PogEmB/Bgv+N7xgmjw6YzJ57dmA6RDU="
+          "Value": "sha256-GheyIG/I7205PE01UXm3+BxLbQaQLfU7nouJqC9v/cY="
         }
       ]
     },
@@ -3161,6 +3116,51 @@
       ]
     },
     {
+      "Route": "css/materialize.urjw32c0kw.css",
+      "AssetFile": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\materialize.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GheyIG/I7205PE01UXm3+BxLbQaQLfU7nouJqC9v/cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 05:13:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "urjw32c0kw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/materialize.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GheyIG/I7205PE01UXm3+BxLbQaQLfU7nouJqC9v/cY="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -3171,7 +3171,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "730"
+          "Value": "728"
         },
         {
           "Name": "Content-Type",
@@ -3179,11 +3179,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc=\""
+          "Value": "\"oe1M4KGUz+NBH+2eSUubygC6FxMMTEADfbKVvjjVTlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 12:46:03 GMT"
+          "Value": "Thu, 17 Apr 2025 05:13:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3193,12 +3193,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc="
+          "Value": "sha256-oe1M4KGUz+NBH+2eSUubygC6FxMMTEADfbKVvjjVTlQ="
         }
       ]
     },
     {
-      "Route": "css/site.u1ho7t2c19.css",
+      "Route": "css/site.lv73nnjxg5.css",
       "AssetFile": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3208,7 +3208,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "730"
+          "Value": "728"
         },
         {
           "Name": "Content-Type",
@@ -3216,11 +3216,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc=\""
+          "Value": "\"oe1M4KGUz+NBH+2eSUubygC6FxMMTEADfbKVvjjVTlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 12:46:03 GMT"
+          "Value": "Thu, 17 Apr 2025 05:13:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3230,7 +3230,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u1ho7t2c19"
+          "Value": "lv73nnjxg5"
         },
         {
           "Name": "label",
@@ -3238,7 +3238,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc="
+          "Value": "sha256-oe1M4KGUz+NBH+2eSUubygC6FxMMTEADfbKVvjjVTlQ="
         }
       ]
     },
@@ -3253,7 +3253,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1640"
+          "Value": "1810"
         },
         {
           "Name": "Content-Type",
@@ -3261,11 +3261,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"znfjOOVn4ypPCMrNB1rOcJaLZhDy76E1Krf93ZbJJHM=\""
+          "Value": "\"d1ZsQyEWZMAlNQhsE0Vm3nZG7N3j0IANFO5OzViqleo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:32:37 GMT"
+          "Value": "Thu, 17 Apr 2025 05:13:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3275,12 +3275,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-znfjOOVn4ypPCMrNB1rOcJaLZhDy76E1Krf93ZbJJHM="
+          "Value": "sha256-d1ZsQyEWZMAlNQhsE0Vm3nZG7N3j0IANFO5OzViqleo="
         }
       ]
     },
     {
-      "Route": "css/style.y3cenrgmu1.css",
+      "Route": "css/style.zpdwdvwxy5.css",
       "AssetFile": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3290,7 +3290,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1640"
+          "Value": "1810"
         },
         {
           "Name": "Content-Type",
@@ -3298,11 +3298,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"znfjOOVn4ypPCMrNB1rOcJaLZhDy76E1Krf93ZbJJHM=\""
+          "Value": "\"d1ZsQyEWZMAlNQhsE0Vm3nZG7N3j0IANFO5OzViqleo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:32:37 GMT"
+          "Value": "Thu, 17 Apr 2025 05:13:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3312,7 +3312,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y3cenrgmu1"
+          "Value": "zpdwdvwxy5"
         },
         {
           "Name": "label",
@@ -3320,7 +3320,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-znfjOOVn4ypPCMrNB1rOcJaLZhDy76E1Krf93ZbJJHM="
+          "Value": "sha256-d1ZsQyEWZMAlNQhsE0Vm3nZG7N3j0IANFO5OzViqleo="
         }
       ]
     },
@@ -3335,7 +3335,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "975"
+          "Value": "967"
         },
         {
           "Name": "Content-Type",
@@ -3343,11 +3343,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pXwl7lRCt0+BpTEDYTOK3DAcLzx81CwgpbY8vyNwyOU=\""
+          "Value": "\"GmMUxjApD+Iav6VOuxt2eJbDeFwx66GOjyxLzpbqSmg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 03:48:07 GMT"
+          "Value": "Thu, 17 Apr 2025 05:13:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3357,12 +3357,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pXwl7lRCt0+BpTEDYTOK3DAcLzx81CwgpbY8vyNwyOU="
+          "Value": "sha256-GmMUxjApD+Iav6VOuxt2eJbDeFwx66GOjyxLzpbqSmg="
         }
       ]
     },
     {
-      "Route": "css/StyleSheet.r08nfrwlle.css",
+      "Route": "css/StyleSheet.ii0e98qwjf.css",
       "AssetFile": "C:\\Users\\84343\\Documents\\Zalo Received Files\\ASC.Solution\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3372,7 +3372,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "975"
+          "Value": "967"
         },
         {
           "Name": "Content-Type",
@@ -3380,11 +3380,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pXwl7lRCt0+BpTEDYTOK3DAcLzx81CwgpbY8vyNwyOU=\""
+          "Value": "\"GmMUxjApD+Iav6VOuxt2eJbDeFwx66GOjyxLzpbqSmg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 03:48:07 GMT"
+          "Value": "Thu, 17 Apr 2025 05:13:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3394,7 +3394,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r08nfrwlle"
+          "Value": "ii0e98qwjf"
         },
         {
           "Name": "label",
@@ -3402,7 +3402,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pXwl7lRCt0+BpTEDYTOK3DAcLzx81CwgpbY8vyNwyOU="
+          "Value": "sha256-GmMUxjApD+Iav6VOuxt2eJbDeFwx66GOjyxLzpbqSmg="
         }
       ]
     },

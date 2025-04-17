@@ -1,0 +1,130 @@
+﻿
+@using Microsoft.AspNetCore.Identity;
+@using System.Security.Claims;
+@model ASC.WEB.Areas.Accounts.Models.ServiceEngineerViewModel
+@inject UserManager<IdentityUser> userManager;
+
+@{
+    Layout = "_SecureLayout";
+}
+
+<div class="row">
+    <div class="col s12">
+        <div class="white-text padding-left-15px blue-grey lighten-1">
+            <h6 class="center-align">Danh sách kỹ sư</h6>
+        </div>
+
+        @if (TempData["Message"] != null)
+        {
+            <div class="center-align red-text">@TempData["Message"]</div>
+        }
+
+        @if (Model.ServiceEngineers != null)
+        {
+            <table id="dtServiceEngineers">
+                <thead>
+                    <tr>
+                        <th>Email</th>
+                        <th>Hoạt động</th>
+                        <th>Thao tác</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in Model.ServiceEngineers)
+                    {
+                        var identity = await userManager.GetUserIdAsync(user);
+                        var isActive = (await userManager.GetClaimsAsync(user))
+                        .SingleOrDefault(c => c.Type == "IsActive")?.Value;
+
+                        <tr>
+                            <td>@user.Email</td>
+                            <td>
+                                <img src="@(isActive == "True" ? "/images/green_tick.png" : "/images/red_cross.png")" />
+                            </td>
+                            <td>
+                                <a class="btn-small material-icons red cursor-hand">edit</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <div class="center-align red-text">No Service Engineers found. Please add one.</div>
+        }
+    </div>
+</div>
+<div class="row" id="frmSection">
+    <div class="col s12">
+        <div class="section white-text padding-left-15px blue-grey lighten-1">
+            <h6 class="center-align">Thông tin kỹ sư</h6>
+        </div>
+
+        <form asp-action="ServiceEngineers" asp-controller="Account" method="post" class="col s12" id="frmUser">
+            <div class="input-field col s6">
+                <input asp-for="Registration.Email" id="Input_Registration_Email" />
+                <label for="Input_Registration_Email">Email</label>
+            </div>
+
+            <div class="input-field col s6">
+                <input asp-for="Registration.UserName" />
+                <label asp-for="Registration.UserName">Tên đăng nhập</label>
+            </div>
+
+            <div class="input-field col s6">
+                <input asp-for="Registration.Password" />
+                <label asp-for="Registration.Password">Mật khẩu</label>
+            </div>
+
+            <div class="input-field col s6">
+                <input asp-for="Registration.ConfirmPassword" />
+                <label asp-for="Registration.ConfirmPassword">Xác nhận mật khẩu</label>
+            </div>
+
+            <div class="input-field col s6">
+                <label>
+                    <input asp-for="Registration.IsActive" type="checkbox" />
+                    <span>Hoạt động</span>
+                </label>
+            </div>
+
+            <div class="input-field col s12 right-align">
+                <button class="btn waves-effect waves-light" type="submit">Lưu</button>
+                <button class="btn waves-effect waves-light red lighten-1" type="button">Hủy</button>
+            </div>
+
+            <div asp-validation-summary="All" class="red-text"></div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Khởi tạo DataTable
+            var table = $('#dtServiceEngineers').DataTable({
+                lengthMenu: [5, 10, 25, 50, 100, 'All'],
+                columnDefs: [{
+                    targets: [2], // Cột thao tác
+                    visible: false
+                }]
+            });
+
+            // Reset form khi nhấn "Hủy"
+            $('#btnReset').on('click', function () {
+                $('#frmUser')[0].reset();
+                $('#Input_Registration_Email').prop("disabled", false);
+            });
+
+            // Khi nhấn "Edit"
+            $('.btn-edit').on('click', function () {
+                var userId = $(this).data("userid");
+                var row = table.row($(this).parents('tr')).data();
+
+                $('#Input_Registration_Email').val(row[0]).prop("disabled", true);
+                $('#Registration_UserName').val(row[1]);
+                $('#Registration_IsActive').prop("checked", row[2] === 'True');
+            });
+        });
+    </script>
+}
